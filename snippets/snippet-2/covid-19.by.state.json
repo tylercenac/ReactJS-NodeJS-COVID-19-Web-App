@@ -1,0 +1,498 @@
+{
+	"asOfDate": [{
+			"format": "UTC",
+			"dateTime": "2020-06-23T09:25:50Z"
+		},
+		{
+			"format": "ISO-8601",
+			"dateTime": "2020-06-23T09:25:50+0000"
+		}
+	],
+	"summary": {
+		"totalCases": 2275645,
+		"totalDeath": 119923,
+		"casesInLast7Days": 397514,
+		"ratePer100K": 68022.4
+	},
+	"detail": [{
+			"stateAbbr": "AK",
+			"stateName": "Alaska",
+			"totalCases": 755,
+			"totalDeath": 12,
+			"casesInLast7Days": 101,
+			"ratePer100K": 102.4
+		},
+		{
+			"stateAbbr": "AL",
+			"stateName": "Alabama",
+			"totalCases": 30021,
+			"totalDeath": 839,
+			"casesInLast7Days": 4653,
+			"ratePer100K": 614.2
+		},
+		{
+			"stateAbbr": "AR",
+			"stateName": "Arkansas",
+			"totalCases": 15561,
+			"totalDeath": 225,
+			"casesInLast7Days": 3466,
+			"ratePer100K": 516.3
+		},
+		{
+			"stateAbbr": "AS",
+			"stateName": "American Samoa",
+			"totalCases": 0,
+			"totalDeath": 0,
+			"casesInLast7Days": 0,
+			"ratePer100K": 0
+		},
+		{
+			"stateAbbr": "AZ",
+			"stateName": "Arizona",
+			"totalCases": 52390,
+			"totalDeath": 1339,
+			"casesInLast7Days": 17932,
+			"ratePer100K": 730.5
+		},
+		{
+			"stateAbbr": "CA",
+			"stateName": "California",
+			"totalCases": 173824,
+			"totalDeath": 5495,
+			"casesInLast7Days": 28181,
+			"ratePer100K": 439.4
+		},
+		{
+			"stateAbbr": "CO",
+			"stateName": "Colorado",
+			"totalCases": 30539,
+			"totalDeath": 1647,
+			"casesInLast7Days": 1522,
+			"ratePer100K": 536.2
+		},
+		{
+			"stateAbbr": "CT",
+			"stateName": "Connecticut",
+			"totalCases": 45755,
+			"totalDeath": 4260,
+			"casesInLast7Days": 761,
+			"ratePer100K": 1280.7
+		},
+		{
+			"stateAbbr": "DC",
+			"stateName": "District of Columbia",
+			"totalCases": 10020,
+			"totalDeath": 533,
+			"casesInLast7Days": 311,
+			"ratePer100K": 1426.4
+		},
+		{
+			"stateAbbr": "DE",
+			"stateName": "Delaware",
+			"totalCases": 10822,
+			"totalDeath": 435,
+			"casesInLast7Days": 558,
+			"ratePer100K": 1118.9
+		},
+		{
+			"stateAbbr": "FL",
+			"stateName": "Florida",
+			"totalCases": 95139,
+			"totalDeath": 3161,
+			"casesInLast7Days": 23550,
+			"ratePer100K": 446.7
+		},
+		{
+			"stateAbbr": "FSM",
+			"stateName": "Federated States of Micronesia",
+			"totalCases": 0,
+			"totalDeath": 0,
+			"casesInLast7Days": 0,
+			"ratePer100K": 0
+		},
+		{
+			"stateAbbr": "GA",
+			"stateName": "Georgia",
+			"totalCases": 64701,
+			"totalDeath": 2643,
+			"casesInLast7Days": 7900,
+			"ratePer100K": 615.1
+		},
+		{
+			"stateAbbr": "GU",
+			"stateName": "Guam",
+			"totalCases": 222,
+			"totalDeath": 5,
+			"casesInLast7Days": 40,
+			"ratePer100K": 133.9
+		},
+		{
+			"stateAbbr": "HI",
+			"stateName": "Hawaii",
+			"totalCases": 769,
+			"totalDeath": 17,
+			"casesInLast7Days": 89,
+			"ratePer100K": 54.1
+		},
+		{
+			"stateAbbr": "IA",
+			"stateName": "Iowa",
+			"totalCases": 25957,
+			"totalDeath": 685,
+			"casesInLast7Days": 2240,
+			"ratePer100K": 822.4
+		},
+		{
+			"stateAbbr": "ID",
+			"stateName": "Idaho",
+			"totalCases": 4006,
+			"totalDeath": 89,
+			"casesInLast7Days": 607,
+			"ratePer100K": 228.4
+		},
+		{
+			"stateAbbr": "IL",
+			"stateName": "Illinois",
+			"totalCases": 137762,
+			"totalDeath": 6851,
+			"casesInLast7Days": 5030,
+			"ratePer100K": 1081.2
+		},
+		{
+			"stateAbbr": "IN",
+			"stateName": "Indiana",
+			"totalCases": 42423,
+			"totalDeath": 2540,
+			"casesInLast7Days": 2880,
+			"ratePer100K": 633.9
+		},
+		{
+			"stateAbbr": "KS",
+			"stateName": "Kansas",
+			"totalCases": 12059,
+			"totalDeath": 254,
+			"casesInLast7Days": 1012,
+			"ratePer100K": 414.2
+		},
+		{
+			"stateAbbr": "KY",
+			"stateName": "Kentucky",
+			"totalCases": 13750,
+			"totalDeath": 526,
+			"casesInLast7Days": 1305,
+			"ratePer100K": 307.7
+		},
+		{
+			"stateAbbr": "LA",
+			"stateName": "Louisiana",
+			"totalCases": 49778,
+			"totalDeath": 3105,
+			"casesInLast7Days": 3495,
+			"ratePer100K": 1068.2
+		},
+		{
+			"stateAbbr": "MA",
+			"stateName": "Massachusetts",
+			"totalCases": 107061,
+			"totalDeath": 7858,
+			"casesInLast7Days": 1666,
+			"ratePer100K": 1551.1
+		},
+		{
+			"stateAbbr": "MD",
+			"stateName": "Maryland",
+			"totalCases": 64603,
+			"totalDeath": 3074,
+			"casesInLast7Days": 2902,
+			"ratePer100K": 1069.1
+		},
+		{
+			"stateAbbr": "ME",
+			"stateName": "Maine",
+			"totalCases": 2957,
+			"totalDeath": 102,
+			"casesInLast7Days": 200,
+			"ratePer100K": 220.9
+		},
+		{
+			"stateAbbr": "MI",
+			"stateName": "Michigan",
+			"totalCases": 67711,
+			"totalDeath": 6090,
+			"casesInLast7Days": 1875,
+			"ratePer100K": 678
+		},
+		{
+			"stateAbbr": "MN",
+			"stateName": "Minnesota",
+			"totalCases": 33227,
+			"totalDeath": 1416,
+			"casesInLast7Days": 3055,
+			"ratePer100K": 592.2
+		},
+		{
+			"stateAbbr": "MO",
+			"stateName": "Missouri",
+			"totalCases": 18005,
+			"totalDeath": 956,
+			"casesInLast7Days": 2195,
+			"ratePer100K": 293.9
+		},
+		{
+			"stateAbbr": "MP",
+			"stateName": "Northern Mariana Islands",
+			"totalCases": 30,
+			"totalDeath": 2,
+			"casesInLast7Days": 0,
+			"ratePer100K": 0
+		},
+		{
+			"stateAbbr": "MS",
+			"stateName": "Mississippi",
+			"totalCases": 20641,
+			"totalDeath": 938,
+			"casesInLast7Days": 1293,
+			"ratePer100K": 691.1
+		},
+		{
+			"stateAbbr": "MT",
+			"stateName": "Montana",
+			"totalCases": 717,
+			"totalDeath": 20,
+			"casesInLast7Days": 129,
+			"ratePer100K": 67.5
+		},
+		{
+			"stateAbbr": "NC",
+			"stateName": "North Carolina",
+			"totalCases": 52801,
+			"totalDeath": 1220,
+			"casesInLast7Days": 10125,
+			"ratePer100K": 508.5
+		},
+		{
+			"stateAbbr": "ND",
+			"stateName": "North Dakota",
+			"totalCases": 3288,
+			"totalDeath": 77,
+			"casesInLast7Days": 230,
+			"ratePer100K": 432.6
+		},
+		{
+			"stateAbbr": "NE",
+			"stateName": "Nebraska",
+			"totalCases": 17810,
+			"totalDeath": 244,
+			"casesInLast7Days": 1177,
+			"ratePer100K": 923.1
+		},
+		{
+			"stateAbbr": "NH",
+			"stateName": "New Hampshire",
+			"totalCases": 5544,
+			"totalDeath": 339,
+			"casesInLast7Days": 245,
+			"ratePer100K": 408.7
+		},
+		{
+			"stateAbbr": "NJ",
+			"stateName": "New Jersey",
+			"totalCases": 169142,
+			"totalDeath": 12870,
+			"casesInLast7Days": 2539,
+			"ratePer100K": 1898.7
+		},
+		{
+			"stateAbbr": "NM",
+			"stateName": "New Mexico",
+			"totalCases": 10565,
+			"totalDeath": 469,
+			"casesInLast7Days": 944,
+			"ratePer100K": 504.2
+		},
+		{
+			"stateAbbr": "NV",
+			"stateName": "Nevada",
+			"totalCases": 13434,
+			"totalDeath": 508,
+			"casesInLast7Days": 2470,
+			"ratePer100K": 442.7
+		},
+		{
+			"stateAbbr": "NY",
+			"stateName": "New York",
+			"totalCases": 175490,
+			"totalDeath": 8606,
+			"casesInLast7Days": 2353,
+			"ratePer100K": 1574.8
+		},
+		{
+			"stateAbbr": "NYC",
+			"stateName": "New York City",
+			"totalCases": 214247,
+			"totalDeath": 22321,
+			"casesInLast7Days": 7925,
+			"ratePer100K": 2550.9
+		},
+		{
+			"stateAbbr": "OH",
+			"stateName": "Ohio",
+			"totalCases": 44808,
+			"totalDeath": 2700,
+			"casesInLast7Days": 3960,
+			"ratePer100K": 383.3
+		},
+		{
+			"stateAbbr": "OK",
+			"stateName": "Oklahoma",
+			"totalCases": 10062,
+			"totalDeath": 381,
+			"casesInLast7Days": 2422,
+			"ratePer100K": 255.2
+		},
+		{
+			"stateAbbr": "OR",
+			"stateName": "Oregon",
+			"totalCases": 6937,
+			"totalDeath": 190,
+			"casesInLast7Days": 1402,
+			"ratePer100K": 165.5
+		},
+		{
+			"stateAbbr": "PA",
+			"stateName": "Pennsylvania",
+			"totalCases": 82186,
+			"totalDeath": 6426,
+			"casesInLast7Days": 3724,
+			"ratePer100K": 641.7
+		},
+		{
+			"stateAbbr": "PR",
+			"stateName": "Puerto Rico",
+			"totalCases": 6564,
+			"totalDeath": 149,
+			"casesInLast7Days": 874,
+			"ratePer100K": 205.4
+		},
+		{
+			"stateAbbr": "PW",
+			"stateName": "Palau",
+			"totalCases": 0,
+			"totalDeath": 0,
+			"casesInLast7Days": 0,
+			"ratePer100K": 0
+		},
+		{
+			"stateAbbr": "RI",
+			"stateName": "Rhode Island",
+			"totalCases": 16337,
+			"totalDeath": 894,
+			"casesInLast7Days": 390,
+			"ratePer100K": 1545.1
+		},
+		{
+			"stateAbbr": "RMI",
+			"stateName": "Republic of Marshall Islands",
+			"totalCases": 0,
+			"totalDeath": 0,
+			"casesInLast7Days": 0,
+			"ratePer100K": 0
+		},
+		{
+			"stateAbbr": "SC",
+			"stateName": "South Carolina",
+			"totalCases": 24693,
+			"totalDeath": 653,
+			"casesInLast7Days": 6738,
+			"ratePer100K": 485.7
+		},
+		{
+			"stateAbbr": "SD",
+			"stateName": "South Dakota",
+			"totalCases": 6297,
+			"totalDeath": 81,
+			"casesInLast7Days": 464,
+			"ratePer100K": 713.8
+		},
+		{
+			"stateAbbr": "TN",
+			"stateName": "Tennessee",
+			"totalCases": 35102,
+			"totalDeath": 526,
+			"casesInLast7Days": 5561,
+			"ratePer100K": 518.5
+		},
+		{
+			"stateAbbr": "TX",
+			"stateName": "Texas",
+			"totalCases": 111601,
+			"totalDeath": 2182,
+			"casesInLast7Days": 25590,
+			"ratePer100K": 388.8
+		},
+		{
+			"stateAbbr": "UT",
+			"stateName": "Utah",
+			"totalCases": 17825,
+			"totalDeath": 158,
+			"casesInLast7Days": 3641,
+			"ratePer100K": 563.9
+		},
+		{
+			"stateAbbr": "VA",
+			"stateName": "Virginia",
+			"totalCases": 58465,
+			"totalDeath": 1620,
+			"casesInLast7Days": 3959,
+			"ratePer100K": 686.4
+		},
+		{
+			"stateAbbr": "VI",
+			"stateName": "Virgin Islands",
+			"totalCases": 76,
+			"totalDeath": 6,
+			"casesInLast7Days": 4,
+			"ratePer100K": 72.6
+		},
+		{
+			"stateAbbr": "VT",
+			"stateName": "Vermont",
+			"totalCases": 1159,
+			"totalDeath": 56,
+			"casesInLast7Days": 34,
+			"ratePer100K": 185.1
+		},
+		{
+			"stateAbbr": "WA",
+			"stateName": "Washington",
+			"totalCases": 28680,
+			"totalDeath": 1270,
+			"casesInLast7Days": 3142,
+			"ratePer100K": 380.6
+		},
+		{
+			"stateAbbr": "WI",
+			"stateName": "Wisconsin",
+			"totalCases": 27587,
+			"totalDeath": 751,
+			"casesInLast7Days": 2556,
+			"ratePer100K": 474.5
+		},
+		{
+			"stateAbbr": "WV",
+			"stateName": "West Virginia",
+			"totalCases": 2543,
+			"totalDeath": 89,
+			"casesInLast7Days": 269,
+			"ratePer100K": 140.8
+		},
+		{
+			"stateAbbr": "WY",
+			"stateName": "Wyoming",
+			"totalCases": 1197,
+			"totalDeath": 20,
+			"casesInLast7Days": 147,
+			"ratePer100K": 207.2
+		}
+	]
+}
